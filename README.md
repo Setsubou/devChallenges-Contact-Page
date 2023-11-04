@@ -2,6 +2,8 @@
 
 A contact page made for [devChallenges.io](https://devchallenges.io/challenges).
 
+[See the finished demo here](https://dev-challenges-contact-page-bice.vercel.app)
+
 # Frameworks
 This small project was built using:\
 -[SvelteKit](https://kit.svelte.dev)
